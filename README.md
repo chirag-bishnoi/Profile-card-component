@@ -13,7 +13,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Link
 
-- Solution URL: [click here]([https://your-solution-url.com](https://chirag-bishnoi.github.io/Profile-card-component/))
+- Solution URL: [click here](https://chirag-bishnoi.github.io/Profile-card-component/)
 
 ### Built with
 
